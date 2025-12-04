@@ -16,6 +16,5 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-    // Add all other required packages here
   }
 }
